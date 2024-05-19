@@ -17,35 +17,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast: Bruxinha no Front- Magia do Desenvolvimento Front End🎙️
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este podcast ensina de maneira lúdica as vantagens e curiosidades do desenvolvimento Front-end.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
+- Software **[Capcut](https://www.capcut.com/pt-br/)** para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Capcut" foi essencial para a edição final, garantindo um fluxo suave e profissional.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O episódio é uma introdução ao desenvolvimento Front-end, apresentando curiosidades e dicas para os iniciantes na área de programação.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[LINK PARA O PODCAST AQUI](https://www.notion.so/PAS-Podcast-AI-Studio-617a9eaaa2d9453b8c41e41331f8dec1)
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+O projeto demonstrou a importância das IAs generativas na criação de conteúdo auditivo, evidenciando sua capacidade de auxiliar iniciantes na programação.
